@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1qJS1a8bq_O-u-AyP5mQX-qBhjTWWMEwk/view?usp=drive
 This project analyzes agricultural crop production in India using Tableau.
 
 ## Dashboard
-- dashboard.twbx(to Review) 
+- dashboard.twbx(to Review the dashboard, kindly download and review the dashboard in tableau,the github unable to preview .twbx file) 
 - Dashboard 2.pdf(to Preview)
 
 ## Documents
